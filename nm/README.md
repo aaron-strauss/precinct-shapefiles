@@ -1,1 +1,2 @@
-Links to most county precinct shapefiles here: http://publicrecords.onlinesearches.com/New-Mexico-GIS-and-Mapping.htm
+From http://rgis.unm.edu/#map -- entry title is "New Mexico Voting Precincts 2012". Date is 
+09/06/2012.
