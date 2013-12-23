@@ -1,0 +1,1 @@
+New Hampshire votes by town and only a handful of towns are split into [wards](https://github.com/opencivicdata/ocd-division-ids/blob/master/identifiers/country-us/state-nh-local_gov.csv). The [Harvard data](http://projects.iq.harvard.edu/eda/data) should suffice for New Hampshire.
