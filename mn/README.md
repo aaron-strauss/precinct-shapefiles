@@ -1,1 +1,1 @@
-From http://www.gis.leg.mn/html/download.html
+From ftp://ftp.commissions.leg.state.mn.us/pub/gis/shape/
