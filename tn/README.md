@@ -1,1 +1,2 @@
 By county here: http://www.comptroller.tn.gov/lg/ActiveMapCounties.asp
+Entire shapefile exists and can be queried here: http://tnmap.tn.gov/arcgis/rest/services/ADMINISTRATIVE_BOUNDARIES/VOTING_DISTRICTS/MapServer  Contact them to get a shapefile.
