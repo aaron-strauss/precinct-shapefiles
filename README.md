@@ -3,6 +3,8 @@ precinct-shapefiles
 
 ##Voting Precinct Shapefiles in the United States
 
+**Update Mar 2017**: A better, more up-to-date repository of shapefiles is [here](https://github.com/nvkelso/election-geodata)
+
 This project aims to catalog as many shapefiles of precincts (in some states "voting tabulation districts", or "election districts") across the United States. The priority is to obtain current shapefiles, namely more recent than 2010.
 
 Please use the data to help with your projects, and if you find another state's shapefiles, please add it to the repository. If you have questions, email me at aaronbstrauss \[at\] gmail \[dot\] com.
