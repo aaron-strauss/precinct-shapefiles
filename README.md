@@ -1,7 +1,7 @@
 precinct-shapefiles
 ===================
 
-##Voting Precinct Shapefiles in the United States
+### Voting Precinct Shapefiles in the United States
 
 **Update Mar 2017**: A better, more up-to-date repository of shapefiles is [here](https://github.com/nvkelso/election-geodata)
 
